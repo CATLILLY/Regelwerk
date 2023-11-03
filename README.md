@@ -21,6 +21,7 @@ Kontoinhaberschaft
 1.8 Es ist verboten, zwischen Ihrem Hauptkonto und twink zu interagieren. Jede Übertragung von Eigentum oder Geld führt zu einer DAUERHAFTEN Sperrung beider Konten.
 ```
 
+
 Erstellung von Spitznamen
 |---|
 ```yarn
@@ -55,6 +56,7 @@ Regeln und der Umgang mit der Verwaltung
 - Wenn Sie mit der Entscheidung der Verwaltung nicht einverstanden sind, überlassen Sie die Beschwerde dem Hauptverwalter zur Prüfung.
 5.3 Beleidigungen der Verwaltung sind strengstens untersagt. Eine Beschwerde ist der beste Weg, um Gerechtigkeit zu erreichen.
 ```
+
 
 Spielregeln
 |---|
