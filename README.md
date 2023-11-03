@@ -10,7 +10,7 @@ Kontoinhaberschaft
 				
 1.3 Jeglicher Betrug gegen Spieler ist verboten | PERMANENTES VERBOT! Wir entschädigen auch kein verloren gegangenes RP Geld.
 				
-1.4 Es ist verboten, mehr als 1 zusätzliches Konto zu haben (Twinking) | Permanente Sperrung für alle Konten mit Ausnahme des Hauptkontos. 
+1.4 Es ist verboten, mehr als 1 zusätzliches Konto zu haben (Twinking) | Permanente Sperrung für Konten mit Ausnahme des Hauptkontos. 
 - Das Hauptkonto wird für bis zu 60 Tage gesperrt
 				
 1.5 Es ist verboten, mehr als 1 Geschäft zu haben, einschließlich zusätzlicher Konten. 1 Person – 1 Geschäft.
