@@ -1,4 +1,4 @@
-Kontoinhaberschaft 
+Kontoinhaberschaft  
 |---|
 ```yarn 
 1.1 Das erstellte Konto ist Eigentum des Erstellers, Ihr Konto kann nicht geteilt oder gehandelt werden. | DAUERHAFTES VERBOT
