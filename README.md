@@ -36,7 +36,7 @@ Erstellung von Spitznamen
 ```yarn
 2.1 Namen müssen realistisch sein. Es dürfen nur keine Namen berühmter Personen verwendet werden.
 ```
-
+---
 
 Regeln der Kommunikation
 |---|
@@ -47,7 +47,7 @@ Regeln der Kommunikation
 | 180 Minuten stummschalten oder bis zu 7 Tage sperren.
 3.3 Alle Spieler müssen in der Lage sein, auf Deutsch zu kommunizieren und der IC-Chat darf nur auf Deutsch sein.
 ```
-
+---
 
 Hacking und Nutzung von Software
 |---|
@@ -56,7 +56,7 @@ Hacking und Nutzung von Software
 4.1 Spieler dürfen keine Software haben, um sich anderen Spielern gegenüber einen Vorteil zu verschaffen.
 - (Deaktivieren der Wirkung von Drogen, Hacks, Umgehung des AFK-Timers, Bots usw.) | 60 Tage sperren
 ```
-
+---
 
 Regeln und der Umgang mit der Verwaltung
 |---|
@@ -70,7 +70,7 @@ die nichts mit dem Spiel oder Problemen auf dem Server zu tun haben.
 5.3 Beleidigungen der Verwaltung sind strengstens untersagt.
 Eine Beschwerde ist der beste Weg, um Gerechtigkeit zu erreichen.
 ```
-
+---
 
 Spielregeln
 |---|
@@ -157,3 +157,4 @@ Stellen Sie ihnen zum Beispiel Forderungen, -
 6.24 Es ist verboten, Personen auszurauben/zu entführen, die in einer beginnenden Arbeit arbeiten, wie z. B. Busfahrer/Taxifahrer/Elektriker usw.
 | WARNEN
 ```
+---
