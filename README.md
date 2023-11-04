@@ -29,7 +29,7 @@ zu übertragen, dessen Gesamtbetrag 50.000€ übersteigt
 1.8 Es ist verboten, zwischen Ihrem Hauptkonto und twink zu interagieren.
 Jede Übertragung von Eigentum oder Geld führt zu einer DAUERHAFTEN Sperrung beider Konten.
 ```
-
+---
 
 Erstellung von Spitznamen
 |---|
